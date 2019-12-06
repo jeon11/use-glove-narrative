@@ -1,0 +1,42 @@
+﻿paragraph,index,text,scoring
+1,1,One fine day an old Maine man was fishing ,"mentions at least 3 of the following: “old”, “man”, “Maine”, “fishing”"
+1,2,on his favorite lake ,mentions “favorite lake” or “favorite river”
+1,3,and catching very little.,mentions that he/the fisherman was not having much luck or that he was not catching any fish
+1,4,"Finally, he gave up",mentions that he gave up/stopped fishing
+1,5,and walked back along the shore to his fishing shack. ,mentions that he walked home/to his fishing shack along the shore
+1,6,"When he got close to the front door, he saw it was open. ",mentions that when he got close to the house that he noticed the front door was open
+1,7,"Being of a suspicious nature, he walked to the door quietly and looked inside. ",mentions that he carefully/quietly approached the house and looked inside; includes the word “suspicious”
+1,8,There was a big black bear. ,"mentions the bear and at least one of the following: “big”, “black”"
+1,9,It was just pulling the cork out of his molasses jug with its teeth. ,mentions that it/the bear was pulling the cork out of a molasses jug with its teeth (includes that it was a molasses jug and that the bear was pulling it out with its teeth)
+1,10,The molasses spilled all over the floor ,mentions that the molasses spilled on the floor (must include the words “molasses” and “floor/ground”)
+1,11,"and the bear rubbed his paw in it, smearing it all over. ",mentions that the bear rubbed his paw in the molasses/it 
+2,12,"When the old man saw the bear, he screamed out loud causing the bear the startle and run to the lake shore. ","mentions that the old man startled the bear, causing it to run away to the lake/river/(any body of water other than ocean)"
+2,13,Standing on its hind legs ,mentions that the bear stands on its back/hind legs
+2,14,it held up the paw full of molasses.,mentions that the bear held up his paw that was covered in molasses
+2,15,Soon all the flies and bugs and mosquitoes were swarming ,"mentions at least two of the following: “flies”, “bugs”, “mosquitoes”"
+2,16,all over the sticky sweet paw. ,"mentions two of the following: “sticky”, “sweet”, “paw”"
+2,17,Then the bear waded into the water,mentions that the bear waded into the water/ went to the river/water
+2,18,with his sticky paw full of bugs.,mentions that his paw had bugs stuck to it
+2,19,It held the paw out over the water. ,mentions that the bear held his paw out over the water
+2,20,"Suddenly, a big trout came jumping out of the water trying to get to the flies. ",mentions that a trout jumped out of the water in an attempt to eat the flies
+2,21,The bear gave it a swat and it flew to the shore and flopped there. ,mentions that the bear swatted the fish and it landed on the shore
+2,22,"Then another fish jumped into the air after the flies, followed swiftly by another.",mentions that other fish jumped into the air trying to get to the flies
+2,23,"Every time a fish jumped after his paw, the bear cuffed it ashore. ",mentions that every time a fish jumped out the bear cuffed or swatted it to the shore
+2,24,Soon it had a large pile. ,mentions that soon the bear had a “large pile” (must use the words “large pile”)
+3,25,The old man had caught nothing. ,mentions that the old man hadn’t caught anything
+3,26,"He watched that bear eat half a dozen trout, ",mentions that the bear ate half a dozen fish
+3,27,his stomach rumbling. ,mentions that his/the fisherman’s stomach growled or rumbled
+3,28,All he had for dinner was some bread and what was left of the molasses. ,mentions that all the fisherman had for dinner was some bread and molasses
+3,29,"Finally the bear paused in his eating, ",mentions that the bear paused/stopped eating
+3,30,and looked over to the bushes where the old man was hidden. ,mentions that the bear looks over to where the fisherman/he/the old man was hiding
+3,31,The bear stood up and laid the remaining fish in a row. ,mentions that the bear stood up AND that it laid the remaining fish in a row
+3,32,Then it walked away up the shore. ,mentions that the bear walked away/ leaves the area
+4,33,The old man crept out of the bushes and down to the shore. ,mentions that he/the fisherman/the old man snuck or crept from the bushes/his hiding spot
+4,34,"Sure enough, the bear had left six large trout for him. ",mentions that the bear left six trout/fish for him/the fisherman/the old man
+4,35,He looked over at the bear. ,mentions that the fisherman looks at the bear
+4,36,It was standing at the edge of the wood watching. ,mentions that the bear was watching him/the old man/ the fisherman
+4,37,"Thanks a lot, the old man called to the bear. ",mentions that the old man tells the bear “thank you” or “thanks a lot”
+4,38,The bear waved the now-clean paw at the old man,mentions that the bear waved back with a clean paw
+4,39,and disappeared into the thicket.,mentions that the bear disappeared
+4,40,"Well, said the old man, ""That's the first time a bear has ever paid me for my molasses."" ",mentions that the fisherman/he/the old man thought “that’s the first time a bear has ever paid me for my molasses.”
+4,41,The old man never hunted bears again.,mentions that the old man never hunted bears again
